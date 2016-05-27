@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\GitProjects\in-app-payment-example-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4079382af8f0290f59fe76897411d56a4cc6b9e0">
+        <dex dex="D:\GitProjects\in-app-payment-example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_adb441ffc780f3c365cac6e60e25db93ed5aa9c5\classes.dex" />
+    </item>
+
+</items>
